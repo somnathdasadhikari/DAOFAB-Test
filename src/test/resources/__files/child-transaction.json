@@ -1,0 +1,114 @@
+[
+  {
+    "id": 1,
+    "sender": "ABC",
+    "receiver": "XYZ",
+    "totalAmount": 200,
+    "paidAmount": 10
+  },
+  {
+    "id": 2,
+    "sender": "ABC",
+    "receiver": "XYZ",
+    "totalAmount": 200,
+    "paidAmount": 50
+  },
+  {
+    "id": 3,
+    "sender": "ABC",
+    "receiver": "XYZ",
+    "totalAmount": 200,
+    "paidAmount": 40
+  },
+  {
+    "id": 4,
+    "sender": "XYZ",
+    "receiver": "MNP",
+    "totalAmount": 100,
+    "paidAmount": 100
+  },
+  {
+    "id": 5,
+    "sender": "XYZ",
+    "receiver": "MNP",
+    "totalAmount": 300,
+    "paidAmount": 10
+  },
+  {
+    "id": 6,
+    "sender": "XYZ",
+    "receiver": "MNP",
+    "totalAmount": 300,
+    "paidAmount": 150
+  },
+  {
+    "id": 7,
+    "sender": "XYZ",
+    "receiver": "MNP",
+    "totalAmount": 300,
+    "paidAmount": 100
+  },
+  {
+    "id": 8,
+    "sender": "ABC",
+    "receiver": "MNP",
+    "totalAmount": 1000,
+    "paidAmount": 300
+  },
+  {
+    "id": 9,
+    "sender": "ABC",
+    "receiver": "MNP",
+    "totalAmount": 1000,
+    "paidAmount": 300
+  },
+  {
+    "id": 10,
+    "sender": "ABC",
+    "receiver": "MNP",
+    "totalAmount": 1000,
+    "paidAmount": 300
+  },
+  {
+    "id": 11,
+    "sender": "XYZ",
+    "receiver": "ABC",
+    "totalAmount": 50,
+    "paidAmount": 10
+  },
+  {
+    "id": 12,
+    "sender": "XYZ",
+    "receiver": "ABC",
+    "totalAmount": 50,
+    "paidAmount": 10
+  },
+  {
+    "id": 13,
+    "sender": "XYZ",
+    "receiver": "ABC",
+    "totalAmount": 50,
+    "paidAmount": 10
+  },
+  {
+    "id": 14,
+    "sender": "XYZ",
+    "receiver": "ABC",
+    "totalAmount": 50,
+    "paidAmount": 10
+  },
+  {
+    "id": 15,
+    "sender": "XYZ",
+    "receiver": "ABC",
+    "totalAmount": 50,
+    "paidAmount": 10
+  },
+  {
+    "id": 16,
+    "sender": "MNP",
+    "receiver": "PQRS",
+    "totalAmount": 200,
+    "paidAmount": 125
+  }
+]

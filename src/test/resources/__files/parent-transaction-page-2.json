@@ -1,0 +1,16 @@
+[
+  {
+    "id": 3,
+    "sender": "XYZ",
+    "receiver": "MNP",
+    "totalAmount": 300,
+    "totalPaidAmount": 260
+  },
+  {
+    "id": 4,
+    "sender": "ABC",
+    "receiver": "MNP",
+    "totalAmount": 1000,
+    "totalPaidAmount": 900
+  }
+]

@@ -1,0 +1,5 @@
+{
+  "timestamp": "{{now}}",
+  "errorCode": 404,
+  "details": "Astronaut details for given id is not found"
+}

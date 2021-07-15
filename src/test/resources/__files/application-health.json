@@ -1,0 +1,17 @@
+{
+    "status": "UP",
+    "components": {
+        "diskSpace": {
+            "status": "UP",
+            "details": {
+                "total": 254112686080,
+                "free": 38794592256,
+                "threshold": 10485760,
+                "exists": true
+            }
+        },
+        "ping": {
+            "status": "UP"
+        }
+    }
+}

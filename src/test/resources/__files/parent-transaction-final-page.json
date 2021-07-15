@@ -1,0 +1,9 @@
+[
+  {
+    "id": 7,
+    "sender": "ABC",
+    "receiver": "PQRS",
+    "totalAmount": 200,
+    "totalPaidAmount": 0
+  }
+]
